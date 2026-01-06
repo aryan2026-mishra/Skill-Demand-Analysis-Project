@@ -51,5 +51,47 @@ Each skill is represented as a binary column (1 = required, 0 = not required).
 - **Average Salary by Skill** – compares salary impact  
 - **Skill Summary Table** – demand count, demand %, salary  
 - **Interactive Filters** – skill-wise exploration  
+🧠 Key Insights
 
+SQL is the most in-demand skill for fresher roles
+
+On average, 2–3 skills are required per job
+
+Multi-skill profiles dominate the job market
+
+Combining SQL + Excel significantly increases opportunities
+
+📌 Business Impact
+
+This project helps:
+
+Freshers prioritize skills based on market demand
+
+Avoid wasting time on low-demand skills
+
+Make informed learning and career decisions
+
+🚀 How to Use This Project
+
+Explore skill demand trends in the dashboard
+
+Use KPIs to understand job market expectations
+
+Filter by skill to analyze demand and salary impact
+
+📎 Project Deliverables
+
+Power BI Interactive Dashboard
+
+SQL Queries for analysis
+
+Python scripts for preprocessing
+
+Presentation (PPT) for interview/demo
+
+🧾 Author
+
+Aryan Mishra
+B.Tech (Final Year) | Aspiring Data Analyst
+Skills: Python | SQL | Power BI | Excel
 
