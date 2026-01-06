@@ -52,11 +52,5 @@ Each skill is represented as a binary column (1 = required, 0 = not required).
 - **Skill Summary Table** – demand count, demand %, salary  
 - **Interactive Filters** – skill-wise exploration  
 
----
 
-## 🖼️ Dashboard Preview
-> *(Add your Power BI dashboard screenshot here)*
 
-```text
-📁 images/
- └── dashboard.png
